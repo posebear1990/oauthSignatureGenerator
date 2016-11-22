@@ -1,0 +1,19 @@
+{
+  "name": "oauth-signature-generator",
+  "version": "0.0.1",
+  "description": "一个简单的OAuth生成器",
+  "main": "oauthSignatureGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/posebear1990/oauthSignatureGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/posebear1990/oauthSignatureGenerator/issues"
+  },
+  "homepage": "https://github.com/posebear1990/oauthSignatureGenerator#readme"
+}
