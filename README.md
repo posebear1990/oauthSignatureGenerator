@@ -1,1 +1,1 @@
-# oauthSignatureGenerator
+# 一个简单的OAuth签名生成器
